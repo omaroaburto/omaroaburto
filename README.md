@@ -1,6 +1,7 @@
-<h1 align="left">Saludos, Mi nombre es Omaro Aburto</h1>
-<p align="justify">Actualmente estoy cursando el último año de Ing. Ejecución en computación e informática de la Universidad del Bío-Bío. Me encanta programar, actualmente estoy aprendiendo NodeJs y ReactJs</p>
-< 
+<h1 align="left">console.log(<h2>"Saludos!!, Mi nombre es Omaro Aburto"</h2>);</h1>
+<p align="justify">Actualmente estoy cursando el último año de Ing. Ejecución en computación e informática de la Universidad del Bío-Bío. Me encanta programar, actualmente estoy aprendiendo <b>NodeJs</b> y <b>ReactJs</b></p>
+ 
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaroaburto&label=Profile%20views&color=0e75b6&style=flat" alt="omaroaburto" /> </p>
 
