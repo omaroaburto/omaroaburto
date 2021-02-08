@@ -1,4 +1,5 @@
-### Saludos<h1> 👋
+### Saludos👋 <h1> 
+  ### Soy Omaro Aburto estudiante de Ing. de ejecución en computación e informática de la Universidad del Bío-Bío.
 
 <!--
 **omaroaburto/omaroaburto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
