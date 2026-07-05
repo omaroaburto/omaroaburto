@@ -9,20 +9,9 @@
 <a href="https://linkedin.com/in/omaroaburtoleiva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="omaroaburtoleiva" height="30" width="40" /></a>
 </p>
 
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=omaroaburto&langs_count=10&theme=default_repocard)](https://github-stats-extended.vercel.app/api/top-langs?username=omaroaburto&langs_count=10&theme=default_repocard)
 
-### Mis Estadísticas de GitHub
-
-<table>
-  <tr>
-    <td><img src="https://vercel.app" alt="Estadísticas" /></td>
-    <td><img src="https://vercel.app" alt="Lenguajes" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://demolab.com" alt="Racha de GitHub" />
-    </td>
-  </tr>
-</table>
-
-
+</div>
 
